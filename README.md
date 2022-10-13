@@ -1,5 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031/branch/main/graph/badge.svg?token=2Y7P37WZ70)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031)
+
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
 * QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
@@ -89,5 +91,3 @@ On Heroku:
 * The SQL database is a postgres database provisioned automatically by Heroku
 * You can reset it with `heroku pg:reset --app app-name-goes-here`
 * More info and instructions for access the SQL prompt are at [docs/postgres-database.md](/docs/postgres-database.md)
-
-[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031/branch/main/graph/badge.svg?token=2Y7P37WZ70)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031)
