@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031/branch/main/graph/badge.svg?token=2Y7P37WZ70)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031)
 
 Storybook is here:
-* Production: https://github.com/ucsb-cs156-f22/jpa03-taeho1031-docs
+* Production: https://ucsb-cs156-f22.github.io/jpa03-taeho1031-docs/
 * QA:  https://github.com/ucsb-cs156-f22/jpa03-taeho1031-docs-qa
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
