@@ -2,6 +2,8 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031/branch/main/graph/badge.svg?token=2Y7P37WZ70)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-taeho1031)
 
+Repo: https://github.com/ucsb-cs156-f22/jpa03-taeho1031
+
 Storybook is here:
 * Production: https://ucsb-cs156-f22.github.io/jpa03-taeho1031-docs/
 * QA:  https://ucsb-cs156-f22.github.io/jpa03-taeho1031-docs-qa/
